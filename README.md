@@ -1,12 +1,12 @@
 # docs
 
-chef-go docs
+chefsgo docs
 
 
 ```golang
 package main
 
-import "github.com/chef-go/chef"
+import "github.com/chefsgo/chef"
 
 func main() {
     chef.Go()
