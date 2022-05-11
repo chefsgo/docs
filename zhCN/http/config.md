@@ -32,6 +32,7 @@ chef.Register(http.Sites{
 ```
 
 
+
 ## 使用动态配置
 
 http 动态配置处理 http, site, sites 几个字段，会动态处理覆盖现有配置中的字段（不会整个覆盖）。
